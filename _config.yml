@@ -13,7 +13,7 @@ name                     : &name "Vikram Bharadwaj"
 description              : &description "Mechanical Engineer specializing in Parametric Design, FEA, CFD, and Embedded Systems"
 url                      : "https://vkrm1612.github.io"
 baseurl                  : "" 
-repository               : "vkrm1612/vkrm1612.github.io"
+repository               : "vkrm1612/vb.github.io"
 
 # Site Author
 author:
